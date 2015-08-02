@@ -7,7 +7,12 @@
       <li>
       <li>
         <b> Your Name </b>
-        <a href="#"> Your detils </a>
-    </ul>
+        <a id="nikhil" href="#"> Name: Nikhil Karthik, Branch: CSE, Phone: +91-7597023796</a>
+<a id = "rishi" href="#">Name : Rishi Gupta Branch = CCE phone = 7597684689</a>  
+ </ul>
   </body>
 <html>
+
+
+
+
